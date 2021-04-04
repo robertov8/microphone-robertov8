@@ -1,0 +1,7 @@
+
+{
+    "description": "A simple mini application that displays the status of the microphone and microphone actions.",
+    "uuid": "microphone@robertov8",
+    "name": "Microphone",
+    "icon": "microphone-sensitivity-high"
+}
